@@ -43,7 +43,10 @@
 * 스테이지를 클리어하거나 실패할 경우 표시되는 비주얼 요소를 다룬 스크립트입니다.
 
 ## OutGameUI
-### [CameraManager.cs](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/InGame/Camera/CameraManager.cs)
-* 플레이어를 비추는 카메라를 제어하는 스크립트입니다.
-* Cinemachine 사용
+### [UI_Hon.cs]()
+* 대분류 혼을 제어하기 위한 UI 스크립트입니다.
+* 해금 여부에 대한 데이터를 서버에서 받아옵니다.
 
+### [UI_Hon_Under]()
+* 하위 혼을 제어하기 위한 UI 스크립트입니다.
+* 해금 여부 및 선택된 혼에 대한 서버와의 데이터 송수신을 제어합니다.
