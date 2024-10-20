@@ -9,11 +9,11 @@
 ## Spine
 오브젝트들의 애니메이션은 스파인으로 구현했습니다.
 
-### [AnimationConstant.cs]()
+### [AnimationConstant.cs](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/SpineAnimation/AnimationConstant.cs)
 * 현재 애니메이션 상태를 정의한 Enum입니다.
 
-### [SpineManager.cs]()
+### [SpineManager.cs](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/SpineAnimation/SpineManager.cs)
 * 스파인 애니메이션을 컨트롤하는 스크립트입니다.
 
-### [SpineAnimatorManager.cs]()
+### [SpineAnimatorManager.cs](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/SpineAnimation/SpineAnimatorManager.cs)
 * 애니메이터를 사용할 수 있는 경우를 고려해 임시로 제작한 스크립트입니다.
