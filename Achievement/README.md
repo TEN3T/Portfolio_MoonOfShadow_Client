@@ -6,6 +6,5 @@
 
 ※ 스크립트 세부 사항은 별도의 pdf 파일에 서술되어 있습니다.
 ```
-## Achievement
 ### [AchievementManager.cs]()  [AchievementData.cs]()
 * 스팀 연동 시 업적 카운팅을 위한 스크립트입니다.
