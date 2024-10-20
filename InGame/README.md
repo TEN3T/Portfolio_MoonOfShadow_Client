@@ -19,9 +19,9 @@
 
 * [Skill](#skill)
 
-* [GameManager](#gamemanager)
-
-* [LayerConstant](#layerconstant)
+* [Other](#other)
+  * GamaManager
+  * LayerConstant
 
 
 ## Camera
