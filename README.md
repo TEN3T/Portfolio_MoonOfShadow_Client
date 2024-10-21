@@ -10,6 +10,12 @@
 ※ 하이퍼 링크를 누를 시 파트별 설명 문서로 이동합니다!
 ```
 
+```
+[단축키]
+Move - A, S, D, W
+Esc - 일시정지
+```
+
 ## 목차
 * [InGame](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/InGame/README.md)
 * [AI](https://github.com/TEN3T/Portfolio_MoonOfShadow_Client/blob/main/AI/README.md)
